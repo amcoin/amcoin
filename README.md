@@ -1,0 +1,4 @@
+AmCoin (AMC)
+===========
+
+Scrypt PoW
